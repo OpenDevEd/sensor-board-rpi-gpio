@@ -13,3 +13,6 @@ This is a breakout for testing several sensor breakouts available in the UK, inc
 * SCD40/41 (Adafruit, Pimoroni, ebay)
 
 Motivation: https://opendeved.net/ilce
+
+![sensorboard-v4-base-station](sensorboard-v4-base-station.jpg)
+![sensorboard-v4-base-station2](sensorboard-v4-base-station2.jpg)
